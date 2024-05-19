@@ -3,7 +3,7 @@ from socket import *
 
 def main():
     if len(sys.argv) != 4:
-        print("Cara Run : client.py <server_ip> <server_port> index.html")
+        print("Cara Run : client.py <server_ip> 6789 index.html")
         sys.exit(1)
 
     serverName = sys.argv[1]
