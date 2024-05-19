@@ -10,6 +10,6 @@ Kelas : IF-46-10
 4. Buka CMD pada folder tubes-jarkom
 5. Ketik py server.py
 6. Buka CMD lagi pada folder tubes-jarkom
-7. Ketik py client.py <server_ip> <server_port> index.html
-8. Buka browser ketik <server_ip>:<server_port>
+7. Ketik py client.py <server_ip> 6789 index.html
+8. Buka browser ketik <server_ip>:6789
 9. Selesai, halaman index.html berhasil dijalankan
